@@ -1,6 +1,0 @@
-The file tree for directory: C:\data\OptionalTaskCollections\src\Item3\In
-C:\data\OptionalTaskCollections\src\Item3\In\dir
-C:\data\OptionalTaskCollections\src\Item3\In\dir\dirIndir
-C:\data\OptionalTaskCollections\src\Item3\In\dir\dirIndir\FileInDirInDir.txt
-C:\data\OptionalTaskCollections\src\Item3\In\dir\fileIndir.txt
-C:\data\OptionalTaskCollections\src\Item3\In\file.txt
